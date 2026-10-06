@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: Maroon
   m_Shader: {fileID: 4800000, guid: 7c51e22c65039884ba86ebcf2d3b73a4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
